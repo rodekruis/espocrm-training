@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "arahata.linter-actionlint",
+    "ban.spellright",
+    "dotiful.dotfiles-syntax-highlighting",
+    "editorconfig.editorconfig",
+    "fnando.linter",
+    "github.vscode-github-actions",
+    "redhat.vscode-yaml",
+    "yzhang.markdown-all-in-one"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "markdownlint.lintWorkspaceGlobs": [
+    "**/*.md",
+    "!**/node_modules",
+    "!**/.git",
+    "!**/venv"
+  ],
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ]
+}
