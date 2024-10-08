@@ -16,7 +16,7 @@ On the left you can find a navigation overview
 - [__General__](./General/index.md)
   
    ---
-Everything about this topic.
+How to access the system
   
 -  [__Standard Templates__](./Standard/index.md)
 
