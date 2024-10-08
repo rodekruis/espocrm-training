@@ -14,7 +14,7 @@ On the left you can find a navigation overview
 
 - [__General__](./General/index.md)
 
----
+
 How to access the system
 
 ---
@@ -31,7 +31,7 @@ Two standard entities of the system
 ---
 How to further customize entities 
 
----
+
 </div>
 
 <!-- markdownlint-enable -->
