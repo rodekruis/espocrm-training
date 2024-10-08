@@ -19,14 +19,14 @@ On the left you can find a navigation overview
 
     Everything about this topic.
   
--  [__PAM__](./PAM/index.md)
+-  [__Standard Templates__](./Standard/index.md)
 
     ---
 
     Everything about this topic.
 
 
--  [__Rental Accommodation__](./Rental/index.md)
+-  [__Customization__](./Rental/index.md)
 
     ---
 
