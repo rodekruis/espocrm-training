@@ -12,7 +12,7 @@ On the left you can find a navigation overview
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
-- [__General__](./General/index.md)
+- :material-book-edit:{ .lg .middle} [__General__](./General/index.md)
 
 
 How to access the system
