@@ -13,21 +13,21 @@ On the left you can find a navigation overview
 <div class="grid cards" markdown>
 
 - [__General__](./General/index.md)
-
+---
 
 How to access the system
 
 ---
   
 -  [__Standard Templates__](./standard/index.md)
-  
+ --- 
 
 Two standard entities of the system 
 
 ---
 
 -  [__Customization__](./rental/index.md)
-
+---
 
 How to further customize entities 
 
