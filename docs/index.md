@@ -26,7 +26,7 @@ On the left you can find a navigation overview
     Everything about this topic.
 
 
--   :fontawesome-solid-comments:{ .lg .middle } [__Another Topic__](./topic2/index.md)
+-  [__Rental Accommodation__](./Rental/index.md)
 
     ---
 
