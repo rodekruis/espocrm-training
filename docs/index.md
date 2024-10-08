@@ -22,11 +22,9 @@ How to access the system
  
 Two standard entities of the system 
 
----
 
 -  [__Customization__](./rental/index.md)
   
----
 
 How to further customize entities 
 
