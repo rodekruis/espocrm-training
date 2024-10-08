@@ -13,7 +13,7 @@ On the left you can find a navigation overview
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-money-bill-transfer:{ .lg .middle } [__PAM__](./PAM/index.md)
+-  [__PAM__](./PAM/index.md)
 
     ---
 
