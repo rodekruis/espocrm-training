@@ -48,7 +48,8 @@ extra:
 
 nav:
     - 'Home': 'index.md'
-    - 'General': 'index.md'
+    - 'General': 
+    - 'Log in': 'general/page1.md'
     - 'Standard Templates' :
       - 'Introduction': 'standard/index.md'
       - 'Access': 'standard/page1.md'
