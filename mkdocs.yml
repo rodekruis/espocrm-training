@@ -51,4 +51,8 @@ nav:
     - 'A Topic' :
       - 'A Page': 'topic1/index.md'
       - 'Another Page': 'topic1/page2.md'
-    - 'Another Topic': 'topic2/index.md'
+      - 'Another Page3': 'topic1/page3.md'
+    - 'Another Topic': 
+      - 'New page': 'topic2/index.md'
+      - 'New page2': 'topic2/page3.md'
+      - 'New page3': 'topic2/topic3.md'
