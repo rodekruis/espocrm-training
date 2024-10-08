@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-money-bill-transfer:{ .lg .middle } [__A Topic__](./topic1/index.md)
+-   :fontawesome-solid-money-bill-transfer:{ .lg .middle } [__PAM__](./PAM/index.md)
 
     ---
 
