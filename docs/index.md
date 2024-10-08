@@ -21,13 +21,15 @@ How to access the system
 ---
   
 -  [__Standard Templates__](./Standard/index.md)
-
+  
+---
 Two standard entities of the system 
 
 ---
 
 -  [__Customization__](./Rental/index.md)
 
+---
 How to further customize entities 
 
 
