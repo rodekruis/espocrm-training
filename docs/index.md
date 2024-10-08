@@ -16,14 +16,12 @@ On the left you can find a navigation overview
 - [__General__](./General/index.md)
   
    ---
-
-    Everything about this topic.
+Everything about this topic.
   
 -  [__Standard Templates__](./Standard/index.md)
 
     ---
-
-    Everything about this topic.
+Everything about this topic.
 
 
 -  [__Customization__](./Rental/index.md)
