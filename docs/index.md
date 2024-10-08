@@ -3,7 +3,7 @@
 
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
 
-Welcome to the 510 EspoCRM training
+Welcome to the 510 EspoCRM training!
 
 On the left you can find a navigation overview 
 
