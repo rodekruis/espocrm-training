@@ -48,9 +48,9 @@ extra:
 
 nav:
     - 'Home': 'index.md'
-    - 'A Topic' :
-      - 'A Page': 'PAM/index.md'
-      - 'Another Page': 'PAM/page2.md'
+    - 'PAM' :
+      - 'Introduction': 'PAM/index.md'
+      - 'Access': 'PAM/page1.md'
       - 'Another Page3': 'PAM/page3.md'
       - 'Another Page4': 'PAM/page4.md'
     - 'Another Topic': 
