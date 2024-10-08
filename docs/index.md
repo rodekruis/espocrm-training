@@ -31,7 +31,7 @@ Two standard entities of the system
 ---
 How to further customize entities 
 
-
+---
 </div>
 
 <!-- markdownlint-enable -->
