@@ -8,7 +8,6 @@ Welcome to the 510 EspoCRM training!
 On the left you can find a navigation overview 
 
 ---
-### Topics
 
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
