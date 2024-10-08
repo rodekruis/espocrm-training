@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
     ---
 
-    Everything about another topic.
+    Everything about another topic. :fontawesome-solid-cloud:{ .lg .middle }
 
 
 </div>
