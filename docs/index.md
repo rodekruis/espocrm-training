@@ -1,4 +1,4 @@
-# 510 EspoCRM Training v2
+# 510 EspoCRM Training 
 
 
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
