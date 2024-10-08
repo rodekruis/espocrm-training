@@ -47,7 +47,7 @@ extra:
 #       lang: nl
 
 nav:
-    
+    - 'Home': 'index.md'
     - 'General': 'index.md'
     - 'Standard Templates' :
       - 'Introduction': 'standard/index.md'
