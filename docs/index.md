@@ -17,7 +17,7 @@ On the left you can find a navigation overview
 
 How to access the system
   
--  [__Standard Template PAM__](./pam/page1.md)
+-  :fontawesome-solid-people-roof:{ .lg .middle } [__Standard Template PAM__](./pam/page1.md)
   
  
 People Affected Data Management 
