@@ -48,7 +48,7 @@ Data Responsibility
 
 ---
 
-Need further assistance? Contact your dedicated Data Service Coordinator
+Need further assistance? Contact your dedicated EspoCRM Specialist
 or reach out to [our general email](mailto:support@510.global).
 
 ---
