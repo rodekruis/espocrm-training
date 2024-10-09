@@ -35,7 +35,7 @@ Rental Accommodation Program
 How to further customize entities 
 
 
--  :fontawesome-solid-users-gear:{ .lg .middle } [__Data Protection__](./protection/page1.md)
+-  :octicons-graph-16:{ .lg .middle } [__Data Protection__](./protection/page1.md)
 
 
 Data Responsibility
