@@ -10,4 +10,4 @@ How is the data protected?
   NS must decide how long project data can be stored in the system and how it will be deleted or anonymized after the program is closed. Regular Data Protection Impact Assessment reviewing is recommended. 
 
 **Data collected with third party tool** Third party handle the data storage. For instance, data collected with KOBO tool will be stored on KOBO servers and fall under their data protection policy. Kindly note this is separate from EspoCRM data process.
-??? "7. How do you ensure data confidentiality, integrity and protection?"
+
