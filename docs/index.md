@@ -12,7 +12,7 @@ On the left you can find a navigation overview
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
-- :material-book-edit:{ .lg .middle} [__General__](./general/index.md)
+- :material-clock-fast:{ .lg .middle } [__General__](./general/index.md)
 
 
 How to access the system
@@ -35,7 +35,7 @@ Rental Accommodation Program
 How to further customize entities 
 
 
--  :octicons-graph-16:{ .lg .middle } [__Data Protection__](./protection/page1.md)
+-  :material-book-edit:{ .lg .middle } [__Data Protection__](./protection/page1.md)
 
 
 Data Responsibility
