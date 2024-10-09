@@ -57,7 +57,7 @@ nav:
     - 'PAM' :
       - 'Data import with Excel': 'pam/page1.md'
       - 'Registration with Kobo form': 'pam/page2.md'
-      - 'Feedback mechanism': 'pam/page4.md'
+      - 'Feedback mechanism': 'pam/page3.md'
     - 'Rental Accommodation' :
       - 'Data import with Excel': 'rental/page1.md'
       - 'Registration with Kobo form': 'rental/page2.md'
