@@ -50,6 +50,8 @@ nav:
     - 'Home': 'index.md'
     - 'General': 
       - 'Log in': 'general/page1.md'
+      - 'Change password': 'general/page2.md'
+      - 'Change language': 'general/page3.md'
     - 'Standard Templates' :
       - 'Introduction': 'standard/index.md'
       - 'Access': 'standard/page1.md'
