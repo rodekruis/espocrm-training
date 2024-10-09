@@ -23,7 +23,7 @@ How to access the system
 People Affected Data Management 
 
 
-- :fontawesome-solid-money-bill-transfer:{ .lg .middle } [__Standard Template Rental Accommodation__](./rental/page1.md)
+- :fontawesome-solid-users-gear:{ .lg .middle } [__Standard Template Rental Accommodation__](./rental/page1.md)
 
 
 Rental Accommodation Program 
