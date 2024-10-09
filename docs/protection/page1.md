@@ -1,5 +1,4 @@
 
-Data Protection
 
 How is the data protected? 
 
