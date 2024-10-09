@@ -54,13 +54,29 @@ nav:
       - 'Change language': 'general/page3.md'
       - 'Add users': 'general/page4.md'
       - 'Roles and permissions': 'general/page5.md'
-    - 'Standard Templates' :
-      - 'Introduction': 'standard/index.md'
-      - 'Access': 'standard/page1.md'
-      - 'Another Page3': 'standard/page3.md'
-      - 'Another Page4': 'standard/page4.md'
+    - 'Standard Templates PAM' :
+      - 'Data import with Excel': 'pam/page1.md'
+      - 'Registration with Kobo form': 'pam/page2.md'
+      - 'Feedback mechanism': 'pam/page4.md'
+    - 'Standard Templates Rental Accommodation' :
+      - 'Data import with Excel': 'rental/page1.md'
+      - 'Registration with Kobo form': 'rental/page2.md'
+      - 'Eligibility calculation': 'rental/page3.md'
+      - 'Application approval': 'rental/page4.md'
+      - 'Making payment': 'rental/page5.md'
     - 'Customization': 
-      - 'New page': 'customization/index.md'
-      - 'New page2': 'customization/page3.md'
-      - 'New page3': 'customization/page3.md'
-      - 'New page4': 'customization/page4.md'
+      - 'How to create a new entity': 'customization/page1.md'
+      - 'How to link entities': 'customization/page2.md'
+      - 'Sending SMS messages': 'customization/page3.md'
+      - 'Mass messaging with WhatsApp/Twilio': 'customization/page4.md'
+      - 'HIA': 'customization/page5.md'
+      - 'Sending emails': 'customization/page6.md'
+      - 'Integration of EspoCRM with KoboToolbox ': 'customization/page7.md'
+      - 'Integration of EspoCRM with Twilio': 'customization/page8.md'
+      - 'Integration of EspoCRM with 121 platform for making payments': 'customization/page9.md'
+      - 'Creating dashboards in EspoCRM': 'customization/page10.md'
+      - 'Flowcharts': 'customization/page11.md'
+    - 'Data protection': 
+      - 'GDPR compliance': 'protection/page1.md'
+      - 'Data storing, processing and sharing': 'protection/page2.md'
+    
