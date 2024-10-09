@@ -54,11 +54,11 @@ nav:
       - 'Change language': 'general/page3.md'
       - 'Add users': 'general/page4.md'
       - 'Roles and permissions': 'general/page5.md'
-    - 'Standard Templates PAM' :
+    - 'PAM' :
       - 'Data import with Excel': 'pam/page1.md'
       - 'Registration with Kobo form': 'pam/page2.md'
       - 'Feedback mechanism': 'pam/page4.md'
-    - 'Standard Templates Rental Accommodation' :
+    - 'Rental Accommodation' :
       - 'Data import with Excel': 'rental/page1.md'
       - 'Registration with Kobo form': 'rental/page2.md'
       - 'Eligibility calculation': 'rental/page3.md'
