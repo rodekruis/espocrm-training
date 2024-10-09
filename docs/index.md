@@ -29,7 +29,7 @@ People Affected Data Management
 Rental Accommodation Program 
 
 
--  :material-book-edit:{ .lg .middle } [__Customization__](./rental/page1.md)
+-  :material-account-multiple-plus:{ .lg .middle } [__Customization__](./rental/page1.md)
   
 
 How to further customize entities 
