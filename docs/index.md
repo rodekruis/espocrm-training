@@ -12,21 +12,33 @@ On the left you can find a navigation overview
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
-- :material-book-edit:{ .lg .middle} [__General__](./General/index.md)
+- :material-book-edit:{ .lg .middle} [__General__](./general/index.md)
 
 
 How to access the system
   
--  [__Standard Templates__](./standard/index.md)
+-  [__Standard Template PAM__](./pam/page1.md)
   
  
-Two standard entities of the system 
+People Affected Data Management 
 
 
--  [__Customization__](./rental/index.md)
+-  [__Standard Template Rental Accommodation__](./rental/page1.md)
+
+
+Rental Accommodation Program 
+
+
+-  [__Customization__](./rental/page1.md)
   
 
 How to further customize entities 
+
+
+-  [__Data Protection__](./protection/page1.md)
+
+
+Data Responsibility
 
 
 </div>
