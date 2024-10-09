@@ -29,13 +29,13 @@ People Affected Data Management
 Rental Accommodation Program 
 
 
--  [__Customization__](./rental/page1.md)
+-  :material-book-edit:{ .lg .middle } [__Customization__](./rental/page1.md)
   
 
 How to further customize entities 
 
 
--  [__Data Protection__](./protection/page1.md)
+-  :fontawesome-solid-users-gear:{ .lg .middle } [__Data Protection__](./protection/page1.md)
 
 
 Data Responsibility
