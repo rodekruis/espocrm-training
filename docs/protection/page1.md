@@ -2,7 +2,7 @@
 
 How is the data protected? 
 
-  **Both the NLRC and EspoCRM adhere to the European General Data Protection Regulation (GDPR)**. In case National Society maintains its own EspoCRM instance, NS is a data processor. For more information about [data processor](https://www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors/) 
+  **Both the NLRC and EspoCRM adhere to the European General Data Protection Regulation (GDPR)**. In case National Society maintains its own EspoCRM instance, NS is a data processor. Read here more information about [data processor](https://www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors/).
 
   The National Society is the data controller and is therefore responsible for any data entered into the system. Your partners should therefore be informed and in compliance with their data protection legislation.
 
