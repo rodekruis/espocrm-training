@@ -15,7 +15,7 @@ On the left you can find a navigation overview
 - :material-clock-fast:{ .lg .middle } [__General__](./general/index.md)
 
 
-How to access the system
+How to log in, change password and language, add users, manage user roles and permissions 
   
 -  :fontawesome-solid-users-gear:{ .lg .middle } [__Standard Template PAM__](./pam/page1.md)
   
