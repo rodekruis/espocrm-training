@@ -1,5 +1,5 @@
 # How to login
-If you are logging in for the first time you will have received your login details in your email. Don't forget to change your password the first time you login. For more details on changing your password see [Change password] (https://rodekruis.github.io/espocrm-training/general/page2/).
+If you are logging in for the first time you will have received your login details in your email. Don't forget to change your password the first time you login. For more details on changing your password see ![Change password] (https://rodekruis.github.io/espocrm-training/general/page2/).
 
 - Go to the login page
 
