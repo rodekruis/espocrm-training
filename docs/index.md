@@ -19,11 +19,13 @@ How to log in, change password and language, add users, manage user roles and pe
   
 -  :fontawesome-solid-users-gear:{ .lg .middle } [__Standard Template PAM__](./pam/page1.md)
   
+
  
 People Affected Data Management 
 
 
 - :fontawesome-solid-people-roof: [__Standard Template Rental Accommodation__](./rental/page1.md)
+
 
 
 Rental Accommodation Program 
@@ -38,7 +40,7 @@ How to further customize entities
 -  :material-book-edit:{ .lg .middle } [__Data Protection__](./protection/page1.md)
 
 
-Data Responsibility
+GDPR compliance, Responsible storage, processing and sharing of data 
 
 
 </div>
