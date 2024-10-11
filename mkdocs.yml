@@ -54,7 +54,8 @@ nav:
       - 'Change language': 'general/page3.md'
       - 'Add users': 'general/page4.md'
       - 'Roles and permissions': 'general/page5.md'
-
+    - 'PAM':
+      - 'People Affected': 'pam/page1.md'
     - 'Rental Accommodation' :
       - 'Data import with Excel': 'rental/page1.md'
       - 'Registration with Kobo form': 'rental/page2.md'
