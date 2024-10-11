@@ -61,7 +61,7 @@ nav:
       - 'Tasks': 'pam/page4.md'
       - 'Volunteers': 'pam/page5.md'
       - 'Data import with Excel': 'pam/page6.md'
-      - 'Registration with Kobo form': 'pam/page7.md'
+      - 'Registration with form': 'pam/page7.md'
     - 'Rental Accommodation' :
       - 'Data import with Excel': 'rental/page1.md'
       - 'Registration with Kobo form': 'rental/page2.md'
