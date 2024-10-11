@@ -55,7 +55,7 @@ nav:
       - 'Add users': 'general/page4.md'
       - 'Roles and permissions': 'general/page5.md'
     - 'PAM':
-      - 'People Affected': 'pam/page1.md'
+      - 'Persons Affected': 'pam/page1.md'
       - 'Households': 'pam/page2.md'
       - 'Programs': 'pam/page3.md'
       - 'Tasks': 'pam/page4.md'
