@@ -87,7 +87,7 @@ nav:
       - 'Creating dashboards in EspoCRM': 'customization/page10.md'
       - 'Flowcharts': 'customization/page11.md'
     - 'Advanced Pack':
-      - 'Advanced Pack': 'advanced/page1.md'
+      - 'Advanced Pack License': 'advanced/page1.md'
     - 'Data protection': 
       - 'GDPR compliance': 'protection/page1.md'
       - 'Data storing, processing and sharing': 'protection/page2.md'
