@@ -40,7 +40,7 @@ How to further customize entities and build integrations with other platforms an
 -  :material-book-edit:{ .lg .middle } [__Data Protection__](./protection/page1.md)
 
 
-GDPR compliance, Responsible storage, processing and sharing of data 
+GDPR compliance, responsible data processing, EspoCRM version control and best practices  
 
 
 </div>
