@@ -1,6 +1,6 @@
-This section covers the main points of data protection: GDPR compliance, responsible data storing processing and sharing, EspoCRM version control and best practices for protecting your data. 
+**This section covers the main points of data protection: GDPR compliance, responsible data storing processing and sharing, EspoCRM version control and best practices for protecting your data**. 
 
-How is the data protected? 
+#GDPR Compliance  
 
   **Both the NLRC and EspoCRM adhere to the European General Data Protection Regulation (GDPR)**. In case National Society maintains its own EspoCRM instance, NS is a data processor. Read more information about [data processor](https://www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors/).
 
