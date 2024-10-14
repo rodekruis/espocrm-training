@@ -4,4 +4,5 @@ PAM is a standard EspoCRM template for managing affected persons data. It contai
 # Persons Affected entity 
 This entity contains individuals contact details. Press the 'Create Person Affected' button in the upper right corner and fill in the form.
 
-![image](https://github.com/user-attachments/assets/1306971d-01e6-4047-b034-18794f3c2ff8)
+![Screenshot (582)](https://github.com/user-attachments/assets/07e9865c-f5d7-4251-84ca-ab54289c5eac)
+
