@@ -48,6 +48,8 @@ extra:
 
 nav:
     - 'Home': 'index.md'
+    - 'Costs & Hosting':
+      - 'Hosting options': 'hosting/page1.md' 
     - 'General': 
       - 'Log in': 'general/page1.md'
       - 'Change password': 'general/page2.md'
