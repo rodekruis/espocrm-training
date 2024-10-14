@@ -86,7 +86,10 @@ nav:
       - 'Integration of EspoCRM with 121 platform for making payments': 'customization/page9.md'
       - 'Creating dashboards in EspoCRM': 'customization/page10.md'
       - 'Flowcharts': 'customization/page11.md'
+    - 'Advanced Pack':
+      - 'Advanced Pack': 'advanced/page1.md'
     - 'Data protection': 
       - 'GDPR compliance': 'protection/page1.md'
       - 'Data storing, processing and sharing': 'protection/page2.md'
+      - 'Version control': 'protection/page3.md'
     
