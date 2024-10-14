@@ -1,4 +1,4 @@
-
+This section covers the main points of data protection: GDPR compliance, responsible data storing processing and sharing, EspoCRM version control and best practices for protecting your data. 
 
 How is the data protected? 
 
