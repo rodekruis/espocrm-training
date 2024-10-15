@@ -31,7 +31,7 @@ People Affected Management entity: individuals contact details, households infor
 Rental Accommodation entity: affected households information, accommodation types, matching criteria, program application, approval, making payments and monitoring
 
 
--  :material-account-multiple-plus:{ .lg .middle } [__Customization__](./rental/page1.md)
+-  :material-account-multiple-plus:{ .lg .middle } [__Customization__](./customization/page1.md)
   
 
 How to further customize entities and build integrations with other platforms and applications
