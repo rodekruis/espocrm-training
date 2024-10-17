@@ -74,6 +74,8 @@ nav:
       - 'Messages': 'rental/page7.md'
       - 'Data import with Excel': 'rental/page8.md'
       - 'Registration with Kobo form': 'rental/page9.md'
+    - '121 Payment platform' :
+      - '121 platform for making payments': 'payment/page1.md'
     - 'Customization': 
       - 'How to create a new entity': 'customization/page1.md'
       - 'How to link entities': 'customization/page2.md'
