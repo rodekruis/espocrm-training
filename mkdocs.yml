@@ -85,7 +85,6 @@ nav:
       - 'Sending emails': 'customization/page6.md'
       - 'Integration of EspoCRM with KoboToolbox ': 'customization/page7.md'
       - 'Integration of EspoCRM with Twilio': 'customization/page8.md'
-      - 'Integration of EspoCRM with 121 platform for making payments': 'customization/page9.md'
       - 'Creating dashboards in EspoCRM': 'customization/page10.md'
       - 'Flowcharts': 'customization/page11.md'
     - 'Advanced Pack':
