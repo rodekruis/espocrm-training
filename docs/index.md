@@ -4,8 +4,9 @@
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
 
 Welcome to the 510 EspoCRM training!
+It covers access to the system, explains how to work with PAM (People Affected Management) and Rental Accommodation templates, describes the 121 platform as a payment solution, contains Customization part for more advanced users and provides recommendations for data protection. 
 
-On the left you can find a navigation overview 
+**On the left you can find a navigation overview**  
 
 ---
 
