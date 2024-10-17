@@ -35,7 +35,7 @@ Rental Accommodation entity: affected households information, accommodation type
 - :fontawesome-solid-money-bill-transfer:{ .lg .middle } [__121 Payment platform__](./payment/page1.md)
   
 
-121 Payment platform: integrated solution for making payments 
+Integrated solution for making payments 
 
 
 -  :material-account-multiple-plus:{ .lg .middle } [__Customization__](./customization/page1.md)
