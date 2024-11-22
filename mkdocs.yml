@@ -81,7 +81,7 @@ nav:
       - 'How to link entities': 'customization/page2.md'
       - 'Sending SMS messages': 'customization/page3.md'
       - 'Mass messaging with WhatsApp/Twilio': 'customization/page4.md'
-      - 'HIA': 'customization/page5.md'
+      - 'DEH': 'customization/page5.md'
       - 'Sending emails': 'customization/page6.md'
       - 'Integration of EspoCRM with KoboToolbox ': 'customization/page7.md'
       - 'Integration of EspoCRM with Twilio': 'customization/page8.md'
