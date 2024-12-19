@@ -1,4 +1,5 @@
-Role-based access improves security by restricting system access to authorized users. This approach supports accountability. 
+*Role-based access improves security by restricting system access to authorized users. This approach supports accountability.* 
+
 
 
 **Roles** can provide different types of access to different entities. **Teams** are used to limit permissions to one region/branch. 
