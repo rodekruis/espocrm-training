@@ -15,13 +15,16 @@ For this training it is good to know that rights can be assigned for:
 
 - No, Own, Team and All
 
-  
 
-There are two example roles available in PAM and Rental Accommodation templates for: 
 
-- Project manager 
+  We distinguish between three types of users: 
 
-- Project officer
+- National Society users: Project Coordinator, Project Officer and Finance 
+
+- Movement partners: IFRC user, PNS user 
+
+- Technical users: Admin, Api users 
+
 
   
 
