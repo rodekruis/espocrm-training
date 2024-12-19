@@ -1,5 +1,3 @@
-**This section explains the basic steps to get started with the system: how to log in, change password and language, add users, manage roles and permissions**. 
-
 # How to login
 
 You can access EspoCRM via any browser, it is recommended to access it on a laptop of your National Society. 
