@@ -19,7 +19,7 @@ If you are logging in for the first time you will have received your login detai
 
 **How to enable 2FA** 
 
-- User will have to download Authenticator application on (personal)  mobile device (examples are  Authy, Microsoft Authenticator, Google Authenticator) 
+- User will have to download Authenticator application on (personal)  mobile device. Examples are [Authy](https://www.authy.com/), [Microsoft Authenticator](https://www.microsoft.com/en/security/mobile-authenticator-app), [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1) 
 
 - Log in with username and password 
 
