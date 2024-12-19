@@ -16,8 +16,6 @@ For this training it is good to know that rights can be assigned for:
 - No, Own, Team and All
 
 
-
-
 We distinguish between three types of users, and assign Roles accordingly: 
 
 - National Society users: Project Coordinator, Project Officer and Finance 
@@ -26,7 +24,5 @@ We distinguish between three types of users, and assign Roles accordingly:
 
 - Technical users: Admin, Api users 
 
-
-  
 
 The **Roles** can be adjusted according to the needs of the program. 
