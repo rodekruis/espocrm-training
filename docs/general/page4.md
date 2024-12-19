@@ -6,11 +6,14 @@ User management and authentication are core components of your data management s
 See overview of [User management in EspoCRM](https://docs.espocrm.com/administration/users-management/) including types of users, sending access info, password recovery etc. 
 
 Please note: 
+
 - When creating new accounts, you can enable [two-factor authentication](https://docs.espocrm.com/administration/2fa/)
+  
 - Enforce password limitations such as length, lower case/upper case, special characters. You can do this in Administration -> Authentication
+  
 - Frequently inactivate or delete users who no longer should have access
 
 
 
-EspoCRM also offers functionality to analyze user login activity, you can find this in Administration -> Auth Log or Action History or Auth Tokens.
+EspoCRM also offers functionality to analyze user login activity. Admins can find this in Administration -> Auth Log or Action History or Auth Tokens.
 
