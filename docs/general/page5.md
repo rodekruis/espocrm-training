@@ -5,20 +5,24 @@
 
 Administrator can manage roles in Administration -> Roles. Each role defines access to certain areas. For an overview of role management see [Roles management in EspoCRM](https://docs.espocrm.com/administration/roles-management/).  
 
-For this manual it is good to know that rights can be assigned for: 
+For this training it is good to know that rights can be assigned for: 
 
-Entities 
+- Entities 
 
-Fields 
+- Fields 
 
-Special permissions such as Exports 
+- Special permissions such as Exports 
 
-No, Own, Team and All 
+- No, Own, Team and All
 
-There are two example roles available in this template for: 
+  
 
-Shelter manager 
+There are two example roles available in PAM and Rental Accommodation templates for: 
 
-Shelter branch officer 
+- Project manager 
+
+- Project officer
+
+  
 
 The roles can be adjusted according to the needs of the program. 
