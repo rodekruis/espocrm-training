@@ -33,4 +33,11 @@ You will have to enable 2FA
 
 - Scan the QR code with your app 
 
-- Fill in the code 
+- Fill in the code
+
+
+How log out of EspoCRM 
+
+- Top right corner, click on three dots 
+
+- Click Log Out 
