@@ -18,7 +18,7 @@ For this training it is good to know that rights can be assigned for:
 
 
 
-We distinguish between three types of users: 
+We distinguish between three types of users, and assign Roles accordingly: 
 
 - National Society users: Project Coordinator, Project Officer and Finance 
 
@@ -29,4 +29,4 @@ We distinguish between three types of users:
 
   
 
-The roles can be adjusted according to the needs of the program. 
+The **Roles** can be adjusted according to the needs of the program. 
