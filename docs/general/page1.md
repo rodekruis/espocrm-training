@@ -1,4 +1,4 @@
-# How to login
+# How to log in
 
 You can access EspoCRM via any browser, it is recommended to access it on a laptop of your National Society. 
 
