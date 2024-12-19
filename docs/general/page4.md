@@ -10,5 +10,7 @@ Please note:
 - Enforce password limitations such as length, lower case/upper case, special characters. You can do this in Administration -> Authentication
 - Frequently inactivate or delete users who no longer should have access
 
+
+
 EspoCRM also offers functionality to analyze user login activity, you can find this in Administration -> Auth Log or Action History or Auth Tokens.
 
