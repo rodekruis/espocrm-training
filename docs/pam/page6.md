@@ -26,17 +26,17 @@ Navigate to the Import Page, this is usually accessible via the **Administration
 
 ### **Step 3: Select Import Settings**
 
-1. **Entity Type**
+**Entity Type**
 
   - Select the entity you want to import data into (e.g., Contacts, Accounts, Leads).
 
-2. **File (CSV)**
+**File (CSV)**
 
  - Click the file icon to upload your prepared CSV file.
 
  - Ensure the file is UTF-8 encoded and follows CSV formatting.
 
-3. **What to Do?**
+**What to Do?**
 
 - Choose the desired action:
   - **Create Only:** Add new records without affecting existing ones.
@@ -45,50 +45,50 @@ Navigate to the Import Page, this is usually accessible via the **Administration
  
 ### **Step 4: Configure Import Properties**
 
-1. **Header Row**
+**Header Row**
 
   - Leave this box checked if your CSV file has column headers in the first row.
 
-2. **Field Delimiter**
+**Field Delimiter**
 
   - Select the delimiter used in your CSV file (commas ,, semicolons ;, etc.).
 
-3. **Text Qualifier**
+**Text Qualifier**
 
   - Choose the character used to enclose text values (e.g., double quotes ", single quotes ').
 
-4. **Person Name Format**
+**Person Name Format**
 
   - Specify the name format (e.g., "First Last").
 
-5. **Date and Time Formats**
+**Date and Time Formats**
 
   - Match the formats to your CSV file:
     - **Date Format:** Select the correct date format (e.g., YYYY-MM-DD).
     - **Time Format:** Select the correct time format (e.g., HH:mm:ss).
    
   
-6. **Decimal Mark and Currency**
+**Decimal Mark and Currency**
 
   - Define the decimal symbol (dot . or comma ,) and the currency format if applicable.
 
-7. **Timezone**
+**Timezone**
 
   - Select the appropriate timezone for your data.
 
-8. **Telephone Country Code**
+**Telephone Country Code**
 
   - Provide the default country code for phone numbers, if relevant.
 
-9. **Execute in Idle**
+**Execute in Idle**
 
   - Check this box if you are importing large datasets and want the import to run in the background.
 
-10. **Skip Searching for Duplicates**
+**Skip Searching for Duplicates**
 
   - Check this box to bypass duplicate checks during the import.
 
-11. **Silent Mode**
+**Silent Mode**
   - Check this box if you do not want any flowcharts or workflows to be triggered by the import.
 
 
@@ -124,8 +124,10 @@ Make sure all appears correct, if there are errors, check which rows are affecte
 
 
 ### **Tips for a Successful Import**
-1. **Data Consistency:** Ensure the CSV file matches the field formats in EspoCRM.
-2. **Testing:** Import a small sample first to confirm accuracy.
+
+**Data Consistency:** Ensure the CSV file matches the field formats in EspoCRM.
+
+**Testing:** Import a small sample first to confirm accuracy.
 
 
 
