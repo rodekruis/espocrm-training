@@ -1,4 +1,5 @@
 # Household Entity Documentation
+![image](https://github.com/user-attachments/assets/35223a20-ef7b-497f-9be3-fc2d72cfd539)
 
 ## Overview
 The Household entity captures and manages data related to households, including the assigned Head of Household (HHH) and calculated demographic statistics.
