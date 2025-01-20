@@ -60,6 +60,6 @@ GDPR compliance, responsible data processing, EspoCRM version control and best p
 ---
 
 Need further assistance? Contact your dedicated EspoCRM Specialist
-or reach out to [our general email](support@510.global).
+or reach out to support@510.global
 
 ---
