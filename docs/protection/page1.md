@@ -8,5 +8,6 @@ Both the NLRC and EspoCRM adhere to the European General Data Protection Regulat
 
   NS must decide how long project data can be stored in the system and how it will be deleted or anonymized after the program is closed. Regular Data Protection Impact Assessment reviewing is recommended. 
 
-**Data collected with third party tool** Third party handle the data storage. For instance, data collected with KOBO tool will be stored on KOBO servers and fall under their data protection policy. Kindly note this is separate from EspoCRM data process.
+**Data collected with third party tool** 
+Third party handle the data storage. For instance, data collected with KOBO tool will be stored on KOBO servers and fall under their data protection policy. Kindly note this is separate from EspoCRM data process.
 
