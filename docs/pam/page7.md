@@ -19,10 +19,12 @@ All options are explained below, but first universal preparation steps are liste
 
 ***Preparation*** 
 
-Create all the fields in EspoCRM that you will need
-Create the corresponding layout(s)
-Create an API user in EspoCRM with a corresponding role
-Option 1: Direct connection through KoBo REST service
+- Create all the fields in EspoCRM that you will need
+- Create the corresponding layout(s)
+- Create an API user in EspoCRM with a corresponding role
+  
+# Option 1: Direct connection through KoBo REST service
+
 Below is a very short list of steps, this will be improved in the future
 
 Create your form in your preferred way
