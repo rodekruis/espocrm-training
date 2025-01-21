@@ -59,8 +59,6 @@ https://kobo-connect.azurewebsites.net/kobo-to-espocrm
   - The header value (right) must correspond to the EspoCRM entity name, followed by a dot (.), followed by the specific field name. Example: Contact.name. (EspoCRM name is different from the EspoCRM label, similar to the difference between Kobo question name and Kobo question label).
     
 
-***If you need to send attachments*** (e.g. images) to EspoCRM, add a Custom HTTP Header called kobotoken with your API token [how to get one](https://support.kobotoolbox.org/api.html#getting-your-api-token).
-
  
 > If you need to send **attachments** (e.g. images) to EspoCRM, add a `Custom HTTP Header` called `kobotoken` with your API token (see [how to get one](https://support.kobotoolbox.org/api.html#getting-your-api-token)).
 
