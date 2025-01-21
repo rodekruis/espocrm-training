@@ -92,4 +92,4 @@ programCode: Entity.program.code
 Note: if debugging is needed, this can be done by [checking the logs of EspoCRM](https://github.com/rodekruis/EspoCRM-knowledge-base/wiki/Administration#access-logs-via-ssh-putty)
 
 
-Be aware that the fields in EspoCRM cannot be Read-only, because it doesnot allow the REST service to enter information.
+Be aware that the fields in EspoCRM cannot be Read-only, because it does not allow the REST service to enter information.
