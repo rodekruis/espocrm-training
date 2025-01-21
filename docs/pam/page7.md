@@ -38,7 +38,8 @@ All options are explained below, but first universal preparation steps are liste
 - Test and debug
   
 # Option 2: use KoboConnect
-See KoboConnect docs. Note: if debugging is needed, this can be done by checking the logs of EspoCRM
+See [KoboConnect docs](https://github.com/rodekruis/kobo-connect#espocrm) 
+Note: if debugging is needed, this can be done by checking the logs of EspoCRM
 
 
 Be aware that the fields in EspoCRM cannot be Read-only, because it doesnot allow the REST service to enter information.
