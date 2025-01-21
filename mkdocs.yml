@@ -63,7 +63,7 @@ nav:
       - 'Tasks': 'pam/page4.md'
       - 'Volunteers': 'pam/page5.md'
       - 'Data import with Excel': 'pam/page6.md'
-      - 'Registration with Kobo form': 'pam/page7.md'
+      - 'Registration with Kobo': 'pam/page7.md'
     - 'Rental Accommodation' :
       - 'Affected Households': 'rental/page1.md'
       - 'Accommodations': 'rental/page2.md'
@@ -73,7 +73,7 @@ nav:
       - 'Message Templates': 'rental/page6.md'
       - 'Messages': 'rental/page7.md'
       - 'Data import with Excel': 'rental/page8.md'
-      - 'Registration with Kobo form': 'rental/page9.md'
+      - 'Registration with Kobo': 'rental/page9.md'
     - '121 Payment platform' :
       - '121 platform for making payments': 'payment/page1.md'
     - 'Customization': 
