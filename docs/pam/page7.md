@@ -1,5 +1,5 @@
 
-# How to integrate EspoCRM with Kobotoolbox 
+Registration (any data collection) can be done efficiently using Kobo and the data can be pulled to EspoCRM. To do this, you need to integrate EspoCRM with Kobotoolbox. 
 
 In this example we are using the [IFRC Server](https://kobo.ifrc.org/).
 There are two options for doing this:
