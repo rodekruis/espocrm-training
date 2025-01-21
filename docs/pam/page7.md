@@ -62,34 +62,37 @@ https://kobo-connect.azurewebsites.net/kobo-to-espocrm
 
 ![image](https://github.com/rodekruis/kobo-connect/assets/26323051/06de75f3-d02d-4f9f-bb82-db6736542cf5" width="500")
 
-Advanced setup: select many, repeat groups, etc.
-If you have a question of type Select Many (select_multiple) in Kobo and you want to save it in a field of type Multi-Enum in EspoCRM, add multi. before the Kobo question name in the header name.
-Example header: multi.multiquestion1: Entity.field1
-If you have a repeating group of questions in Kobo:
-you will need to save each repeated question in a different field in EspoCRM, as specified by a different header;
-under each header name:
-insert repeat., followed by the repeating group name, followed by a dot (.);
-then insert a number to specify the number of the repeated question (starting from 0), followed by a dot (.);
-then insert the name of the repeated question after the number;
-under each header value:
-as before, insert the entity name, followed by a dot (.), followed by the field name in EspoCRM.
-Example headers:
-repeat.repeatedgroup.0.repeatedquestion: Entity.field1
-repeat.repeatedgroup.1.repeatedquestion: Entity.field2
-Not all repeated questions need to be filled in nor saved to EspoCRM.
-If you need to update a pre-existing record:
-add a question of type calculate called updaterecordby in the Kobo form, which will contain the value of the field which you will use to identify the record;
-add a header with name updaterecordby and as value the name of the field that you will use to identify the record.
-If you need to avoid sending specific submissions to EspoCRM:
-add a question called skipconnect in the Kobo form;
-whenever its value is 1 (based on some condition), the submission will not be sent to EspoCRM.
-If you need to link the new record with another pre-existing record in EspoCRM:
-ensure that the API user has read-access to the related entity;
-under the header name insert the name of the Kobo question, as usual;
-under the header value insert the entity name, followed by a dot (.), followed by the field name of type Link (the one containing the related entity record), followed by a dot (.), followed by the field name of the related entity used to relate the two.
-Example headers:
-pcode: Entity.AdminLevel1.pcode
-programCode: Entity.program.code
+
+### Advanced setup: select many, repeat groups, etc.
+
+- If you have a question of type `Select Many` (`select_multiple`) in Kobo and you want to save it in a field of type `Multi-Enum` in EspoCRM, add `multi.` before the Kobo question name in the header name.
+  - Example header: `multi.multiquestion1`: `Entity.field1`
+- If you have a **repeating group** of questions in Kobo:
+  - you will need to save each repeated question in a different field in EspoCRM, as specified by a different header;
+  - under each header name:
+    - insert `repeat.`, followed by the repeating group name, followed by a dot (`.`);
+    - then insert a number to specify the number of the repeated question (starting from 0), followed by a dot (`.`);
+    - then insert the name of the repeated question after the number;
+  - under each header value:
+    - as before, insert the entity name, followed by a dot (`.`), followed by the field name in EspoCRM.
+  - Example headers:
+    - `repeat.repeatedgroup.0.repeatedquestion`: `Entity.field1`
+    - `repeat.repeatedgroup.1.repeatedquestion`: `Entity.field2`
+  - Not all repeated questions need to be filled in nor saved to EspoCRM.
+- If you need to **update** a pre-existing record:
+  - add a question of type `calculate` called `updaterecordby` in the Kobo form, which will contain the value of the field which you will use to identify the record;
+  - add a header with name `updaterecordby` and as value the name of the field that you will use to identify the record.
+- If you need to **avoid sending specific submissions** to EspoCRM:
+  - add a question called `skipconnect` in the Kobo form;
+  - whenever its value is `1` (based on some condition), the submission will not be sent to EspoCRM.
+- If you need to **link the new record with another pre-existing record in** EspoCRM:
+  - ensure that the API user has read-access to the related entity;
+  - under the header name insert the name of the Kobo question, as usual;
+  - under the header value insert the entity name, followed by a dot (`.`), followed by the field name of type `Link` (the one containing the related entity record), followed by a dot (`.`), followed by the field name of the related entity used to relate the two.
+  - Example headers:
+    - `pcode`: `Entity.AdminLevel1.pcode`
+    - `programCode`: `Entity.program.code`
+
 
 
 Note: if debugging is needed, this can be done by [checking the logs of EspoCRM](https://github.com/rodekruis/EspoCRM-knowledge-base/wiki/Administration#access-logs-via-ssh-putty)
