@@ -17,7 +17,7 @@ Option 2 only requires some extra configuration of the Kobo REST Service.
 
 All options are explained below, but first universal preparation steps are listed:
 
-***Preparation:*** 
+**Preparation:** 
 
 - Create all the fields in EspoCRM that you will need
 - Create the corresponding layout(s)
@@ -40,20 +40,22 @@ All options are explained below, but first universal preparation steps are liste
 # Option 2: use KoboConnect
 Using the [kobo-to-espocrm](https://kobo-connect.azurewebsites.net/docs#/default/kobo_to_espocrm_kobo_to_espocrm_post) endpoint it is possible to save a Kobo submission as one or more entities in EspoCRM.
 
-Basic setup
-Define which questions in the Kobo form need to be saved in which entity and field in EspoCRM.
-In EspoCRM,
-Create a role (Administration>Roles), set Access to the target entity on enabled, with the permission on yes to Create (if you need to update records, also add Read and Edit).
-Create an API user (Administration>API Users), give it a descriptive User Name, select the previously created role, make sure Is Active is checked and that Authentication Method is API Key. After saving, you will see a newly created API Key which is needed for the next step.
-Register a new Kobo REST Service for the Kobo form of interest and give it a descriptive name.
-Insert as Endpoint URL
+**Basic setup**
+1. Define which questions in the Kobo form need to be saved in which entity and field in EspoCRM.
+2. In EspoCRM,
+  - Create a role (Administration>Roles), set Access to the target entity on enabled, with the permission on yes to Create (if you need to update records, also add Read and Edit).
+  - Create an API user (Administration>API Users), give it a descriptive User Name, select the previously created role, make sure Is Active is checked and that Authentication Method is API Key. After saving, you will see a newly created API Key which is needed for the next step.
+3. Register a new Kobo REST Service for the Kobo form of interest and give it a descriptive name.
+4. Insert as Endpoint URL
+
 https://kobo-connect.azurewebsites.net/kobo-to-espocrm
-Add the following headers under Custom HTTP Headers:
-Under Name insert targeturl and under Value the EspoCRM URL (for example, https://espocrminstancex.com).
-Under Name insert targetkey and under Value the (newly) created API Key (from EspoCRM API User).
-For each question, add a header that specifies which Kobo questions corresponds to which entity and field EspoCRM: (tip: this is a manual task. If you want to semi-automatically add headers, read this section on the creating headers endpoint)
-The header name (left) must correspond to the Kobo question name. (You can check the Kobo question name by going into edit mode of the form, open 'Settings' of the specific question and inspect the Data Column Name. Also, the Kobo question names can be found in the 'Data' table with previous submissions. This Kobo question name is different from the Kobo question label and can not contain spaces or symbols (except the underscore).).
-The header value (right) must correspond to the EspoCRM entity name, followed by a dot (.), followed by the specific field name. Example: Contact.name. (EspoCRM name is different from the EspoCRM label, similar to the difference between Kobo question name and Kobo question label).
+
+5. Add the following headers under Custom HTTP Headers:
+  - Under Name insert targeturl and under Value the EspoCRM URL (for example, https://espocrminstancex.com).
+  - Under Name insert targetkey and under Value the (newly) created API Key (from EspoCRM API User).
+6. For each question, add a header that specifies which Kobo questions corresponds to which entity and field EspoCRM: (tip: this is a manual task. If you want to semi-automatically add headers, read this section on the creating headers endpoint)
+  - The header name (left) must correspond to the Kobo question name. (You can check the Kobo question name by going into edit mode of the form, open 'Settings' of the specific question and inspect the Data Column Name. Also, the Kobo question names can be found in the 'Data' table with previous submissions. This Kobo question name is different from the Kobo question label and can not contain spaces or symbols (except the underscore).).
+  - The header value (right) must correspond to the EspoCRM entity name, followed by a dot (.), followed by the specific field name. Example: Contact.name. (EspoCRM name is different from the EspoCRM label, similar to the difference between Kobo question name and Kobo question label).
 Important
 
 If you need to send attachments (e.g. images) to EspoCRM, add a Custom HTTP Header called kobotoken with your API token (see how to get one).
