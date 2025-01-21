@@ -33,8 +33,8 @@ All options are explained below, but first universal preparation steps are liste
 - Go to your form, click on settings and then REST Services
 - Fill in the following things
   - endpoint: this is the API endpoint for the entity that you want to make a record for
- - Select fields subset: type all the fields you want to push to espoCRM (tip: you can paste a comma separated list)
- - Custom HTTP Headers: X-Api-Key - copy & paste the api key from the api user in EspoCRM
+  - Select fields subset: type all the fields you want to push to espoCRM (tip: you can paste a comma separated list)
+  - Custom HTTP Headers: X-Api-Key - copy & paste the api key from the api user in EspoCRM
 - Test and debug
   
 # Option 2: use KoboConnect
