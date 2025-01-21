@@ -1,20 +1,23 @@
 
 # How to integrate EspoCRM with Kobotoolbox 
 
-In this example we are using the IFRC server. There are two options for doing this:
+In this example we are using the IFRC server. 
+There are two options for doing this:
 
-Make a direct connection between KoBo and espoCRM through the REST functionality of KoBo
-Use KoboConnect
+1. Make a direct connection between KoBo and espoCRM through the REST functionality of KoBo
+2. Use KoboConnect
+   
 For option 1 you don't need additional resources, but it has the following drawbacks:
 
-There is no support for images or other attachments
-It can take a lot of time to configure in the xlsform
-Debugging can be difficult and time consuming
+- There is no support for images or other attachments
+- It can take a lot of time to configure in the xlsform
+- Debugging can be difficult and time consuming
+  
 Option 2 only requires some extra configuration of the Kobo REST Service.
 
 All options are explained below, but first universal preparation steps are listed:
 
-Preparation
+**Preparation**
 Create all the fields in EspoCRM that you will need
 Create the corresponding layout(s)
 Create an API user in EspoCRM with a corresponding role
