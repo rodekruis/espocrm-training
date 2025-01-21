@@ -41,7 +41,8 @@ All options are explained below, but first universal preparation steps are liste
 ## Option 2: use KoboConnect
 Using the [kobo-to-espocrm](https://kobo-connect.azurewebsites.net/docs#/default/kobo_to_espocrm_kobo_to_espocrm_post) endpoint it is possible to save a Kobo submission as one or more entities in EspoCRM.
 
-**Basic setup**
+### Basic setup
+
 1. Define which questions in the Kobo form need to be saved in which entity and field in EspoCRM.
 2. In EspoCRM,
   - Create a role (Administration>Roles), set Access to the target entity on enabled, with the permission on yes to Create (if you need to update records, also add Read and Edit).
