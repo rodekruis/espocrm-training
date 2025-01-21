@@ -41,4 +41,4 @@ All options are explained below, but first universal preparation steps are liste
 See KoboConnect docs. Note: if debugging is needed, this can be done by checking the logs of EspoCRM
 
 
-Be aware that boolean values are not send over the REST service by Kobo Also, fields in EspoCRM cannot be Read-only, because it doesnot allow the REST service to enter information
+Be aware that the fields in EspoCRM cannot be Read-only, because it doesnot allow the REST service to enter information.
