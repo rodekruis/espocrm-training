@@ -16,8 +16,6 @@ For option 1 you don't need additional resources, but it has the following drawb
   
 Option 2 only requires some extra configuration of the Kobo REST Service.
 
-All options are explained below, but first universal preparation steps are listed:
-
 **Preparation:** 
 
 - Create all the fields in EspoCRM that you will need
