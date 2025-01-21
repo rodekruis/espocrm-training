@@ -56,10 +56,11 @@ https://kobo-connect.azurewebsites.net/kobo-to-espocrm
 6. For each question, add a header that specifies which Kobo questions corresponds to which entity and field EspoCRM: (tip: this is a manual task. If you want to semi-automatically add headers, read this section on the creating headers endpoint)
   - The header name (left) must correspond to the Kobo question name. (You can check the Kobo question name by going into edit mode of the form, open 'Settings' of the specific question and inspect the Data Column Name. Also, the Kobo question names can be found in the 'Data' table with previous submissions. This Kobo question name is different from the Kobo question label and can not contain spaces or symbols (except the underscore).).
   - The header value (right) must correspond to the EspoCRM entity name, followed by a dot (.), followed by the specific field name. Example: Contact.name. (EspoCRM name is different from the EspoCRM label, similar to the difference between Kobo question name and Kobo question label).
-Important
+    
 
-If you need to send attachments (e.g. images) to EspoCRM, add a Custom HTTP Header called kobotoken with your API token (see how to get one).
+***If you need to send attachments*** (e.g. images) to EspoCRM, add a Custom HTTP Header called kobotoken with your API token (see how to get one).
 
+![image](https://github.com/rodekruis/kobo-connect/assets/26323051/06de75f3-d02d-4f9f-bb82-db6736542cf5" width="500")
 
 Advanced setup: select many, repeat groups, etc.
 If you have a question of type Select Many (select_multiple) in Kobo and you want to save it in a field of type Multi-Enum in EspoCRM, add multi. before the Kobo question name in the header name.
