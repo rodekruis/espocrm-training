@@ -1,4 +1,4 @@
-# **Guide to Importing Data into EspoCRM Using a CSV File**
+# Guide to Importing Data into EspoCRM Using a CSV File
 
 Importing data into EspoCRM from a CSV file is a straightforward process. Follow the steps below to ensure a successful data import.
 
