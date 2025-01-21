@@ -61,7 +61,12 @@ https://kobo-connect.azurewebsites.net/kobo-to-espocrm
 
 ***If you need to send attachments*** (e.g. images) to EspoCRM, add a Custom HTTP Header called kobotoken with your API token [how to get one](https://support.kobotoolbox.org/api.html#getting-your-api-token).
 
-![image](https://github.com/rodekruis/kobo-connect/assets/26323051/06de75f3-d02d-4f9f-bb82-db6736542cf5" width="500")
+
+> [!IMPORTANT]  
+> If you need to send **attachments** (e.g. images) to EspoCRM, add a `Custom HTTP Header` called `kobotoken` with your API token (see [how to get one](https://support.kobotoolbox.org/api.html#getting-your-api-token)).
+
+<img src="https://github.com/rodekruis/kobo-connect/assets/26323051/06de75f3-d02d-4f9f-bb82-db6736542cf5" width="500">
+
 
 
 ### Advanced setup: select many, repeat groups, etc.
