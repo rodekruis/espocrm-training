@@ -52,10 +52,10 @@ Using the [kobo-to-espocrm](https://kobo-connect.azurewebsites.net/docs#/default
 ```
 https://kobo-connect.azurewebsites.net/kobo-to-espocrm
 ```
-6. Add the following headers under `Custom HTTP Headers`:
+5. Add the following headers under `Custom HTTP Headers`:
    - Under `Name` insert `targeturl` and under `Value` the EspoCRM URL (for example, https://espocrminstancex.com).
    - Under `Name` insert `targetkey` and under `Value` the (newly) created API Key (from EspoCRM API User).
-9. For each question, add a header that specifies which Kobo questions corresponds to which entity and field EspoCRM: (tip: this is a manual task. If you want to semi-automatically add headers, read this [section](#create-headers-endpoint) on the creating headers endpoint)
+6. For each question, add a header that specifies which Kobo questions corresponds to which entity and field EspoCRM: (tip: this is a manual task. If you want to semi-automatically add headers, read this [section](#create-headers-endpoint) on the creating headers endpoint)
    - The header name (left) must correspond to the Kobo question **name**. (You can check the Kobo question name by going into edit mode of the form, open 'Settings' of the specific question and inspect the `Data Column Name`. Also, the Kobo question names can be found in the 'Data' table with previous submissions. This Kobo question name is different from the [Kobo question label](https://support.kobotoolbox.org/getting_started_xlsform.html#adding-questions) and can not contain spaces or symbols (except the underscore).).
    - The header value (right) must correspond to the EspoCRM entity **name**, followed by a dot (`.`), followed by the specific field **name**. Example: `Contact.name`. (EspoCRM name is different from the EspoCRM label, similar to the difference between Kobo question name and Kobo question label).
     
