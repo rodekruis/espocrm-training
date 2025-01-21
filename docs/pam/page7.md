@@ -24,7 +24,7 @@ All options are explained below, but first universal preparation steps are liste
 - Create the corresponding layout(s)
 - Create an API user in EspoCRM with a corresponding role
   
-# Option 1: Direct connection through KoBo REST service
+## Option 1: Direct connection through KoBo REST service
 
 - Create your form in your preferred way
 - Download the xlsform
@@ -38,7 +38,7 @@ All options are explained below, but first universal preparation steps are liste
   - Custom HTTP Headers: X-Api-Key - copy & paste the api key from the api user in EspoCRM
 - Test and debug
   
-# Option 2: use KoboConnect
+## Option 2: use KoboConnect
 Using the [kobo-to-espocrm](https://kobo-connect.azurewebsites.net/docs#/default/kobo_to_espocrm_kobo_to_espocrm_post) endpoint it is possible to save a Kobo submission as one or more entities in EspoCRM.
 
 **Basic setup**
