@@ -1,4 +1,4 @@
-# **Volunteers Entity Overview**
+# Volunteers Entity Overview
 
 The PAM template includes an entity specifically designed for registering volunteers as system users. Key details are outlined below:
 
