@@ -1,5 +1,7 @@
 
-This article explains how to integrate espoCRM with kobotoolbox. In this example we are using the IFRC server. There are two options for doing this:
+#How to integrate EspoCRM with kobotoolbox# 
+
+In this example we are using the IFRC server. There are two options for doing this:
 
 Make a direct connection between KoBo and espoCRM through the REST functionality of KoBo
 Use KoboConnect
