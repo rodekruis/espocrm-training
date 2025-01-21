@@ -45,7 +45,7 @@ Using the [kobo-to-espocrm](https://kobo-connect.azurewebsites.net/docs#/default
 2. In EspoCRM,
   - Create a role (Administration>Roles), set Access to the target entity on enabled, with the permission on yes to Create (if you need to update records, also add Read and Edit).
   - Create an API user (Administration>API Users), give it a descriptive User Name, select the previously created role, make sure Is Active is checked and that Authentication Method is API Key. After saving, you will see a newly created API Key which is needed for the next step.
-3. Register a new Kobo REST Service for the Kobo form of interest and give it a descriptive name.
+3. [Register a new Kobo REST Service](https://support.kobotoolbox.org/rest_services.html) for the Kobo form of interest and give it a descriptive name.
 4. Insert as Endpoint URL
 
 https://kobo-connect.azurewebsites.net/kobo-to-espocrm
