@@ -3,6 +3,7 @@
 Keeping your software up to date is important because software updates improve existing features, patch security flaws, add new security features and fix bugs. Using outdated software can lead to security vulnerabilities, which cybercriminals and hackers can exploit to gain unauthorized access to your accounts, data and device.
 
 **Before upgrading**
+
 Review release notes and check if anything changed that could potentially cause issues.
 Review if there is enough disk space for the upgrade
 SSH into VM
@@ -19,10 +20,14 @@ SSH into the VM
 Run sudo apt-get update && sudo apt-get upgrade
 Enable maintenance mode in EspoCRM: Administration > Settings > Maintenance Mode
 Disable cron in EspoCRM: Administration > Settings > Disable Cron
+
 **Upgrade**
+
 SSH into the VM
 Run sudo /var/www/espocrm/command.sh upgrade
+
 **After upgrading**
+
 Disable maintenance mode in EspoCRM
 Enable cron in EspoCRM
 Review if everything still works as expected
