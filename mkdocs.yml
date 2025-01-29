@@ -91,7 +91,6 @@ nav:
       - 'Advanced Pack License': 'advanced/page1.md'
     - 'Data protection': 
       - 'GDPR compliance': 'protection/page1.md'
-      - 'Data storing, processing and sharing': 'protection/page2.md'
       - 'Version control': 'protection/page3.md'
       - 'Best practices': 'protection/page4.md'
     
