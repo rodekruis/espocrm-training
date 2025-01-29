@@ -2,6 +2,19 @@
 
 Keeping your software up to date is important because software updates improve existing features, patch security flaws, add new security features and fix bugs. Using outdated software can lead to security vulnerabilities, which cybercriminals and hackers can exploit to gain unauthorized access to your accounts, data and device.
 
+you can download the needed upgrade packages from the website: https://www.espocrm.com/download/upgrades/ or just click on a hyperlink in Select Upgrade Package section in EspoCRM. Before upgrading it’s better to make the backup of EspoCRM files and data, just to be sure that they will be saved if something goes wrong. (To find out more information on creating a Backup, see here).
+
+ 
+
+
+If you’ve downloaded the upgrade package, the last thing to do is upload and install it into a system. Go to Administration > Upgrade > click Choose File to select the package and press Upload button and wait until all the upgrades will be installed.
+
+ 
+You can also check whether you have the latest version at Menu > About.
+ 
+
+
+
 **Before upgrading**
 
 1. Review release notes and check if anything changed that could potentially cause issues.
