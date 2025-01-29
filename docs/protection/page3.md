@@ -23,7 +23,7 @@ Keeping your software up to date is important because software updates improve e
    
 - In your EspoCRM instance, go to Administration > System requirements > Check your PHP version
   
-- Compare to PHP version supported by version you want to upgrade to; the PHP version required by the latest EspoCRM release can be found here
+- Compare to PHP version supported by version you want to upgrade to; the PHP version required by the latest EspoCRM release can be found [here](https://docs.espocrm.com/administration/server-configuration/)
   
 - If necessary, upgrade PHP:
   - SSH into the VM
