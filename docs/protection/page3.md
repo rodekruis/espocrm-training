@@ -5,7 +5,7 @@
 You can download the needed upgrade packages from the website: https://www.espocrm.com/download/upgrades/ or just click on a hyperlink in Select Upgrade Package section in EspoCRM. Before upgrading it’s better to make the backup of EspoCRM files and data, just to be sure that they will be saved if something goes wrong. (To find out more information on creating a Backup, see [here](https://docs.espocrm.com/administration/backup-and-restore/)).
 
  
-
+![image](https://github.com/user-attachments/assets/35223a20-ef7b-497f-9be3-fc2d72cfd539)
 
 If you’ve downloaded the upgrade package, the last thing to do is upload and install it into a system. Go to Administration > Upgrade > click Choose File to select the package and press Upload button and wait until all the upgrades will be installed.
 
