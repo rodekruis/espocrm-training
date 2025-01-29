@@ -10,10 +10,15 @@ You can download the needed upgrade packages from the website: https://www.espoc
 
 If you’ve downloaded the upgrade package, the last thing to do is upload and install it into a system. Go to Administration > Upgrade > click Choose File to select the package and press Upload button and wait until all the upgrades will be installed.
 
+
+![image](https://github.com/user-attachments/assets/c940f82c-9032-4b7a-a714-ea59eb45d3fa)
+
+
  
 You can also check whether you have the latest version at Menu > About.
  
 
+![image](https://github.com/user-attachments/assets/f9d77525-f57f-42ca-85c8-e0e614bcdf62)
 
 
 **Before upgrading**
