@@ -4,9 +4,9 @@ Keeping your software up to date is important because software updates improve e
 
 **Before upgrading**
 
-1.Review release notes and check if anything changed that could potentially cause issues.
+1. Review release notes and check if anything changed that could potentially cause issues.
 
-2.Review if there is enough disk space for the upgrade
+2. Review if there is enough disk space for the upgrade
 
 - SSH into VM
 - Review system information that is shown, or run df -h
