@@ -7,17 +7,17 @@ You can open the overview of registered accommodations under the Accommodations 
 **1. Create a new Accommodation in EspoCRM**
 
 -	Click on `create Accommodation` 
--	
+  
 -	Make sure to share the data privacy statement with the property owner and ask for their consent
--	
+  
 -	Fill in the information. The questions are clustered into several themes, such as contact information, information about the accommodation, household composition
--	
+  
 -	Click on `save` to submit the registration
--	
+  
 -	An Accommodation ID is automatically assigned to the registration
--	
+  
 -	The registration status is automatically set to `new`
--	
+  
 -	You can change the registration status
 
    
