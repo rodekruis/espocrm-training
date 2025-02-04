@@ -13,7 +13,9 @@ The figure below provides an overview of the program phases, the entities and th
   - This page is used for creating a new record for a person affected by a specific situation.
 
 # Affected Households 
+The registration of affected households can be done with KoboCollect or directly in EspoCRM. Affected households is one of the entities in EspoCRM. This entity contains data fields which include an overview, household composition, matching criteria, and status. 
 
+In the overview section, contact information on the head of the households (I.e., name, contact details, and date of arrival in the country) can be recorded. The overview section also contains data fields for identification, language preferences, current accommodation, comment box and matches. 
 
-- **Page Title**: `Persons Affected › create`
-  - sdfsdf
+Information on the household size, number of children or number of elderly is recorded in the household composition. In the matching criteria, information that can match the affected household to a potential homeowner is provided. Under status, the registration status (whether new, pending, ready for matching or match confirmed) and eligibility status (approved, rejected, or needs validation) are assigned. The results of the duplicate check and the eligibility score (see section 6.4.3 for eligibility score calculation) are also reflected under the status section. 
+
