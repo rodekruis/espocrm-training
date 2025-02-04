@@ -30,7 +30,7 @@ Information on the household size, number of children or number of elderly is re
 -	People arrive at the registration location with an SMS code, this code should be entered in the registration form; this is how the pre-registration is linked to the registration
 
 **2. Registration directly in EspoCRM** 
--	Click on the Affected households entity in the upper bar
+-	Click on the `Affected households` entity in the upper bar
 -	You are directed to the page with all existing registrations 
 -	To create a new registration, click on Create Affected household at the top-right 
 -	The registration form opens
