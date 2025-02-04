@@ -57,15 +57,33 @@ Information on the household size, number of children or number of elderly is re
 
 **4. Manually approve or reject affected household**
 To manually approve or reject affected household:
--	Go to Affected households 
+-	Go to `Affected households` 
 -	Search and filter to the household using the household ID or name (registration name)
--	Click on household ID
--	Navigate to status
+-	Click on `household ID`
+-	Navigate to `Status`
 -	Click on the tick box to manually approve or reject the household
 
+**5. Registration status**
+-	A registration status is assigned to affected households from the beginning of the registration, and this status changes throughout the process. 
+-	The following registration status are assigned depending on the stage at which the registration process is:
+    - New – Status is assigned to all new registrations.
+    - Pending- Status assigned when the registration is under review.
+    - Ready for matching – Status assigned when review is completed, and the household is ready to be matched with a potential house owner.
+    - Match confirmed – Status assigned when there is a match between the registered household and a host family or landlord.
+
+-	The registration status can be seen under the overview of the affected household entity and the status for each household can be updated by;
+    - Clicking on the household ID
+    - Navigate to status
+    - Update registration status
+ 
+- The registration status can be manually updated to align with the different stages of the application process. Update of registration status can also be automated based on needs of NS.
 
 
-'asdfsd'
+![image](https://github.com/user-attachments/assets/4f57a7e9-3265-4091-ae06-871437933d8e)
+
+
+
+`Pe`
 
 - **Page Title**: `Persons Affected › create`
   - This page is used for creating a new record for a person affected by a specific situation.
