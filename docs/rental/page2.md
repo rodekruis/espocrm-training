@@ -61,7 +61,4 @@ You can open the overview of registered accommodations under the Accommodations 
 
 
 
-`Pe`
 
-- **Page Title**: `Persons Affected › create`
-  - This page is used for creating a new record for a person affected by a specific situation.
