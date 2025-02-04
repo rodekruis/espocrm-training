@@ -30,7 +30,7 @@ You can open the overview of registered accommodations under the Accommodations 
 -	New registrations are added to the overview page
 
 
-** 3. Accommodation adequacy visit**
+**3. Accommodation adequacy visit**
 
 -	The accommodation adequacy form can be filled in during the adequacy visit at the accommodation
   
