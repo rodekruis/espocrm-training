@@ -42,14 +42,19 @@ This section includes basic details about the affected person.
 
 ## Main components of the form
 
-**1. Registration directly in EspoCRM** 
+**1. Registration through Kobo form**
+- To register through Kobo, you need to use KoboCollect, an Android application, and configure it as explained in Sec. 4.3.
+- When filling the form, carefully read the explanations underneath the questions
+-	People arrive at the registration location with an SMS code, this code should be entered in the registration form; this is how the pre-registration is linked to the registration
+
+**2. Registration directly in EspoCRM** 
 -	Click on the Affected households entity in the upper bar
 -	You are directed to the page with all existing registrations 
 -	To create a new registration, click on Create Affected household at the top-right 
 -	The registration form opens
 -	The question of the form are divided into multiple themes
   
-**2. Eligibility status**
+**3. Eligibility status**
 -	An eligibility status is assigned to affected households during registration
 -	Based on an eligibility score, the eligibility status assigned can be:
     - Approved
@@ -65,6 +70,9 @@ This section includes basic details about the affected person.
   - Clicking on the household ID
   - Navigate to status
   - Update eligibility status
+
+  ![image](https://github.com/user-attachments/assets/cf5d98c5-447c-4d94-87c2-64ba4226b4af)
+
 
 
 
