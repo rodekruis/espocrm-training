@@ -23,28 +23,29 @@ Information on the household size, number of children or number of elderly is re
 ![image](https://github.com/user-attachments/assets/dc7957b5-0715-4250-9cea-121a6069582d)
 
 
-##Registration directly in EspoCRM##
+**Registration directly in EspoCRM** 
 -	Click on the Affected households entity in the upper bar
 -	You are directed to the page with all existing registrations 
 -	To create a new registration, click on Create Affected household at the top-right 
 -	The registration form opens
 -	The question of the form are divided into multiple themes
-6.4.3	Eligibility status
+  
+**Eligibility status**
 -	An eligibility status is assigned to affected households during registration
 -	Based on an eligibility score, the eligibility status assigned can be:
-o	Approved 
-o	Rejected 
-o	Needs validation 
-
+    - Approved
+    - Rejected
+    - Needs validation
+    
 -	Eligibility score is currently calculated based on the following parameters, but this can be adjusted based on your eligibility criteria:
-o	Household composition (I.e., single, elderly headed, large family)
-o	Health (I.e., physical, and chronic difficulties)
-o	Accommodation type (I.e., if household has access to accommodation or live in a collective center)
+    - Household composition (I.e., single, elderly headed, large family)
+    - Health (I.e., physical, and chronic difficulties)
+    - Accommodation type (I.e., if household has access to accommodation or live in a collective center)
 
 -	The eligibility status can be seen under the overview of the affected households and the status for each household can be updated by;
-o	Clicking on the household ID
-o	Navigate to status
-o	Update eligibility status
+  - Clicking on the household ID
+  - Navigate to status
+  - Update eligibility status
 
 
 
