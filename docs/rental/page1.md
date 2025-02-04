@@ -32,7 +32,7 @@ Information on the household size, number of children or number of elderly is re
 **2. Registration directly in EspoCRM** 
 -	Click on the `Affected households` entity in the upper bar
 -	You are directed to the page with all existing registrations 
--	To create a new registration, click on Create Affected household at the top-right 
+-	To create a new registration, click on `Create affected household` at the top-right 
 -	The registration form opens
 -	The question of the form are divided into multiple themes
   
@@ -55,10 +55,17 @@ Information on the household size, number of children or number of elderly is re
 
   ![image](https://github.com/user-attachments/assets/cf5d98c5-447c-4d94-87c2-64ba4226b4af)
 
+**4. Manually approve or reject affected household**
+To manually approve or reject affected household:
+-	Go to Affected households 
+-	Search and filter to the household using the household ID or name (registration name)
+-	Click on household ID
+-	Navigate to status
+-	Click on the tick box to manually approve or reject the household
 
 
 
-
+'asdfsd'
 
 - **Page Title**: `Persons Affected › create`
   - This page is used for creating a new record for a person affected by a specific situation.
