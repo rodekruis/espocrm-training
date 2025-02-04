@@ -22,24 +22,6 @@ Information on the household size, number of children or number of elderly is re
 
 ![image](https://github.com/user-attachments/assets/dc7957b5-0715-4250-9cea-121a6069582d)
 
-## Form Overview
-
-- **Page Title**: `Persons Affected › create`
-  - This page is used for creating a new record for a person affected by a specific situation.
-
-- **Buttons**:
-  - **Save**: Submits the form data to save the record.
-  - **Cancel**: Cancels the creation process and discards entered data.
-  - **More Options (`...`)**: Additional features, settings, or actions may be available here.
-
-
-
-The form is divided into the following sections:
-
-### 1. Overview Section
-
-This section includes basic details about the affected person.
-
 ## Main components of the form
 
 **1. Registration through Kobo form**
