@@ -78,13 +78,22 @@ To manually approve or reject affected household:
  
 - The registration status can be manually updated to align with the different stages of the application process. Update of registration status can also be automated based on needs of NS.
 
-
 ![image](https://github.com/user-attachments/assets/4f57a7e9-3265-4091-ae06-871437933d8e)
 
+**6. How do we detect duplicates?**
+-	Detecting duplicates is started when;
+    - A new registration is created
+    - After an ID number is changed
+    - Runs every 5 minutes on every affected household
+-	Duplicates are checked on:
+    - The ID number
+    - If the new ID number matches one already existing, then the new record is marked as a duplicate
+    - If there is no match on ID number, a duplication check is done on the name which results in the record being marked as unique or as a potential duplicate.
+    - If the record is potentially a duplicate, further verification must be done
+-	Duplicate status:
+    - Unique
+    - Duplicate: ID Number
+    - Potential Duplicate: Name 
 
 
-`Pe`
-
-- **Page Title**: `Persons Affected › create`
-  - This page is used for creating a new record for a person affected by a specific situation.
 
