@@ -1,4 +1,4 @@
-**Introduction**
+# Introduction
 
 The EspoCRM Information Management (IM) template streamlines the IM process of rental and hosting assistance programs. The template includes:
 
