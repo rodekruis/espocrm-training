@@ -26,41 +26,63 @@ Information on the household size, number of children or number of elderly is re
 
 **1. Registration through Kobo form**
 - To register through Kobo, you need to use KoboCollect, an Android application, and configure it as explained in Sec. 4.3.
+
 - When filling the form, carefully read the explanations underneath the questions
+
 -	People arrive at the registration location with an SMS code, this code should be entered in the registration form; this is how the pre-registration is linked to the registration
 
 **2. Registration directly in EspoCRM** 
 -	Click on the `Affected households` entity in the upper bar
--	You are directed to the page with all existing registrations 
--	To create a new registration, click on `Create affected household` at the top-right 
+  
+-	You are directed to the page with all existing registrations
+  
+-	To create a new registration, click on `Create affected household` at the top-right
+  
 -	The registration form opens
+  
 -	The question of the form are divided into multiple themes
   
 **3. Eligibility status**
 -	An eligibility status is assigned to affected households during registration
+  
 -	Based on an eligibility score, the eligibility status assigned can be:
+  
     - Approved
+      
     - Rejected
+      
     - Needs validation
     
 -	Eligibility score is currently calculated based on the following parameters, but this can be adjusted based on your eligibility criteria:
+  
     - Household composition (I.e., single, elderly headed, large family)
+      
     - Health (I.e., physical, and chronic difficulties)
+      
     - Accommodation type (I.e., if household has access to accommodation or live in a collective center)
 
 -	The eligibility status can be seen under the overview of the affected households and the status for each household can be updated by;
+  
   - Clicking on the household ID
+    
   - Navigate to status
+    
   - Update eligibility status
 
   ![image](https://github.com/user-attachments/assets/cf5d98c5-447c-4d94-87c2-64ba4226b4af)
 
 **4. Manually approve or reject affected household**
-To manually approve or reject affected household:
--	Go to `Affected households` 
+
+To manually approve or reject affected household
+
+-	Go to `Affected households`
+  
 -	Search and filter to the household using the household ID or name (registration name)
+  
 -	Click on `household ID`
+  
 -	Navigate to `Status`
+  
 -	Click on the tick box to manually approve or reject the household
 
 **5. Registration status**
