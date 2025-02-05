@@ -33,4 +33,7 @@ After the affected household moved into the accommodation, a red cross (case) wo
   
 -	The monitoring form appears in which you can log your monitoring information
   
--	All your earlier monitoring forms related to the same match are stored under the `monitoring section` 
+-	All your earlier monitoring forms related to the same match are stored under the `monitoring section`
+
+![image](https://github.com/user-attachments/assets/e822b6d0-29b8-49d8-ac7c-adcfda772be4)
+
