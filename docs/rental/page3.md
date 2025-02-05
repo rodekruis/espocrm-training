@@ -7,7 +7,7 @@ Under the matches tab, you get the overview of all the matches registered in the
 
 **1. Create a new match**
 
--	Click on Create match at the top right of the page
+-	Click on `Create match` at the top right of the page
 
 -	Select the affected household
   
@@ -15,29 +15,22 @@ Under the matches tab, you get the overview of all the matches registered in the
   
 -	Fill in the required information
   
--	You can fill in banking details under the financial information tab. It is important to select who should receive the cash transfer (e.g. the landlord, host family or affected household)
+-	You can fill in banking details under the `financial information` tab. It is important to select who should receive the cash transfer (e.g. the landlord, host family or affected household)
   
--	You can upload supporting documents such as contracts under the supporting documents tab
+-	You can upload supporting documents such as contracts under the `supporting documents` tab
   
--	The status of the match can be changed throughout the process (new, pending, confirmed, completed)
+-	The status of the match can be changed throughout the process (`new, pending, confirmed, completed`)
   
 **2. Monitoring**
 
 After the affected household moved into the accommodation, a red cross (case) worker can be assigned to the match. The case worker can keep track of the engagements with the affected household or property owner by logging the information under ‘monitoring’. 
 
 -	Click on the match you have been monitoring
--	Scroll down to the monitoring section
--	Add your monitoring information by clicking on the + icon. 
--	The monitoring form appears in which you can log your monitoring information 
--	All your earlier monitoring forms related to the same match are stored under the monitoring section
-
-
-
-
-
-
-
-`Pe`
-
-- **Page Title**: `Persons Affected › create`
-  - This page is used for creating a new record for a person affected by a specific situation.
+  
+-	Scroll down to the `monitoring` section
+  
+-	Add your monitoring information by clicking on the `+` icon.
+  
+-	The monitoring form appears in which you can log your monitoring information
+  
+-	All your earlier monitoring forms related to the same match are stored under the `monitoring section` 
