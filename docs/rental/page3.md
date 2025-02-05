@@ -1,9 +1,10 @@
-Matches
+# Matches
 
 Under the matches tab, you get the overview of all the matches registered in the system. A match is the combination of an affected household and a rental accommodation or host family complying with matching criteria.  You can open existing matches and review the information by clicking on the match name (e.g. HH00033 – AC00018). Additionally, you can create a new match. 
 
+## Main components of the form
+**1. Create a new match**
 
-6.6.1	Create a new match
 -	Click on Create match at the top right of the page 
 -	Select the affected household 
 -	Select the accommodation
