@@ -7,3 +7,5 @@ Advanced Pack is an [extension](https://www.espocrm.com/extensions/advanced-pack
 [Workflows](https://docs.espocrm.com/administration/workflows/) – automation rules
 
 [BPM](https://docs.espocrm.com/administration/bpm/) – business process management – automation with flowcharts
+
+The Pro license can be purchased on the [EspoCRM website](https://www.espocrm.com/extensions/advanced-pack/). You will receive instructions and a ZIP file from EspoCRM. Upload the ZIP file with the Advanced Pack by going to Admin -> Extensions.
