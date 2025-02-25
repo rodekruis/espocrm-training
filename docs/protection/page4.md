@@ -9,7 +9,7 @@ Recommended reading to all Organisations:
 
 - General Data Protection Regulation [GDPR](https://gdpr-info.eu/)
 
-- Module 3 (Data and Digital responsibility) of the Data and Digital Literacy Introduction Course
+- Module 3 (Data and Digital responsibility) of the [Data and Digital Literacy Introduction Course](https://ifrc.csod.com/ui/lms-learning-details/app/course/a56d4a22-0364-4e88-ab2e-d5022c53bdbe?isCompletionRedirect=true)
 
 **Data security** means protecting your information from getting into the wrong hands. Make sure only the right people can access your system. Normally the system is set up with the following: 
 
