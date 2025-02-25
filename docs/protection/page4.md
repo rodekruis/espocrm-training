@@ -11,7 +11,7 @@ Recommended reading to all Organisations:
 
 - Module 3 (Data and Digital responsibility) of the Data and Digital Literacy Introduction Course
 
-**Data security** means protecting your information from getting into the wrong hands. Make sure only the right people can access your system. This system is set up with the following: 
+**Data security** means protecting your information from getting into the wrong hands. Make sure only the right people can access your system. Normally the system is set up with the following: 
 
 Two-factor-authentication (2FA) 
 
