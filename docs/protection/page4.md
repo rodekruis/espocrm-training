@@ -11,7 +11,17 @@ Recommended reading to all Organisations:
 
 - Module 3 (Data and Digital responsibility) of the Data and Digital Literacy Introduction Course
 
-Additional recommendations:
+**Data security** means protecting your information from getting into the wrong hands. Make sure only the right people can access your system. This system is set up with the following: 
+
+Two-factor-authentication (2FA) 
+
+Role Based Access including data field level security 
+
+SSL/TLS certificates 
+
+Password rules 
+
+**Additional recommendations:** 
 
 - Do Not collect more data than is necessary for the purpose of the specific program.
 - Do Not keep data for longer than necessary.
