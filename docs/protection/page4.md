@@ -7,7 +7,7 @@ Recommended reading for the Red Cross Red Crescent movement users:
 
 Recommended reading to all Organisations:
 
-- General Data Protection Regulation (GDPR)
+- General Data Protection Regulation [GDPR](https://gdpr-info.eu/)
 
 - Module 3 (Data and Digital responsibility) of the Data and Digital Literacy Introduction Course
 
