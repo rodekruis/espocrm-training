@@ -18,7 +18,7 @@ Out of the box, it's possible to send SMS from a Formula script or from a PHP co
 
 
 # Setting up # 
-Download the extension package from the GitHub repository (under the Assets section). Then upload and install the package in Espo at Administration > Extensions.
+Download the extension package from the [GitHub repository](https://github.com/espocrm/ext-sms-providers/releases) (under the Assets section). Then upload and install the package in Espo at Administration > Extensions.
 
 After the SMS Providers extension is installed, go to Administration > SMS and select the SMS Provider you want to use from the dropdown list. Also, in the SMS From Number field, enter the number with the country code (e.g. +31001111111) from which you will be sending SMS messages.
 
