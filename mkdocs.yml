@@ -69,7 +69,6 @@ nav:
       - 'Accommodations': 'rental/page2.md'
       - 'Matches': 'rental/page3.md'
       - 'Cash distributions': 'rental/page4.md'
-      - 'Transfers': 'rental/page5.md'
       - 'Message Templates': 'rental/page6.md'
       - 'Messages': 'rental/page7.md'
       - 'Data import with Excel': 'rental/page8.md'
