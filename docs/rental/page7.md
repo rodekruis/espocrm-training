@@ -45,7 +45,7 @@ The templates for the SMS messages in EspoCRM are stored in the entity “Messag
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/c839ddbb-2391-45b9-9449-74dfb9e834ac)
 
-You can see the delivery status in the Messages list:
+**You can see the delivery status in the Messages list:**
 
 ![Screenshot (22)](https://github.com/user-attachments/assets/64aa22d4-1b32-46c7-bc4b-96b47f40e79c)
 
