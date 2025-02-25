@@ -1,6 +1,6 @@
 **This section covers the main points of data protection: GDPR compliance, responsible data storing processing and sharing, EspoCRM version control and best practices for protecting your data**. 
 
-#GDPR Compliance  
+# GDPR Compliance  
 
 Both the NLRC and EspoCRM adhere to the European General Data Protection Regulation [GDPR](https://gdpr-info.eu/). Additional Data Protection Impact Assessments (DPIA) can be conducted to further compliance increase. 
 
