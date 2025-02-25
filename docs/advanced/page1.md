@@ -1,6 +1,6 @@
 # Advanced Pack
 
-Advanced Pack is an extension for EspoCRM.
+Advanced Pack is an [extension](https://www.espocrm.com/extensions/advanced-pack/) for EspoCRM.
 
 It provides additional features:
 
