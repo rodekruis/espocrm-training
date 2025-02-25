@@ -6,6 +6,6 @@ It provides additional features:
 
 [Reports](https://docs.espocrm.com/user-guide/reports/) – analytics, report panels and custom list view filters
 
-Workflows – automation rules
+[Workflows](https://docs.espocrm.com/administration/workflows/) – automation rules
 
-BPM – business process management – automation with flowcharts
+[BPM](https://docs.espocrm.com/administration/bpm/) – business process management – automation with flowcharts
