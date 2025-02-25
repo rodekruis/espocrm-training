@@ -2,7 +2,7 @@
 
 Recommended reading for the Red Cross Red Crescent movement users:
 
-- IFRC Practical Guidance for Data Protection in Cash and Voucher Assistance
+- [IFRC Practical Guidance for Data Protection in Cash and Voucher Assistance](https://www.ifrc.org/document/practical-guidance-data-protection-cash-and-voucher-assistance)
 - IFRC Data Protection overview and general best practices
 
 Recommended reading to all Organisations:
