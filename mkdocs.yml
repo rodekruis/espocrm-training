@@ -73,7 +73,7 @@ nav:
       - 'Data import with Excel': 'rental/page8.md'
       - 'Registration with Kobo': 'rental/page9.md'
     - '121 Payment platform' :
-      - '121 platform for making payments': 'payment/page1.md'
+      - '![image](https://github.com/user-attachments/assets/eed1b604-a8f9-464c-b9ed-b903493b1281) platform for making payments': 'payment/page1.md'
     - 'Customization': 
       - 'How to create a new entity': 'customization/page1.md'
       - 'How to link entities': 'customization/page2.md'
