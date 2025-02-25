@@ -14,7 +14,7 @@ EspoCRM has the built-in functionality for sending SMS, but it's not shipped wit
   
   GatewayAPI
 
-Out of the box, it's possible to send SMS from a Formula script or from a PHP code. The VoIP Integration provides also the ability to send SMS through the UI (only for the Twilio provider).
+Out of the box, it's possible to send SMS from a Formula script or from a PHP code. The [VoIP Integration](https://www.espocrm.com/extensions/voip-integration/) provides also the ability to send SMS through the UI (only for the Twilio provider).
 
 
 # Setting up # 
